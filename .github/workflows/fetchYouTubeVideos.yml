@@ -8,10 +8,10 @@ on:
 jobs:
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     steps:
-      -users: actions/checkout@v2
-      -users: gautamkrishnar/blog-post-workflow@master
+      - users: actions/checkout@v2
+      - users: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           feed_lsit: "https://www.youtube.com/channel/UCexprTdVQJtI3pHI56VUHow"
