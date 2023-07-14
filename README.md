@@ -22,6 +22,8 @@ I'm ooking for interships/SDE jobs anytime! Contact me!
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node logo" width="50" height="50">
 
+---
+
 
 
 
