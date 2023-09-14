@@ -8,7 +8,6 @@ A Software Engineer who code in Java, Python and C, passionate/curious about Cyb
 
 I spend my time studying and teaching kids coding and hiking ~ 
 
-I'm looking for interships/SDE jobs anytime! Contact me!
 
 <a href="https://www.linkedin.com/in/jessica-cui-b645a230/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkinedIn logo" width="50" height="50" />
